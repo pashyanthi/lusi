@@ -1,0 +1,211 @@
+* {
+    background-color: aliceblue;
+    font-family: cursive, fantasy, serif;
+    margin: 0px;
+}
+
+
+.header{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    padding:25px
+}
+
+.images {
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.panda{
+    max-width: 300px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.panda:hover p {
+    opacity: 1;
+}
+
+.panda:hover img {
+    opacity: 0.5;
+}
+
+.panda:hover {
+    transform: scale(1.15);
+}
+
+.panda-text{
+    display: flex;
+    justify-content: space-between;
+    color:magenta
+}
+
+.chameleon{
+    max-width: 300px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.chameleon:hover p {
+    opacity: 1;
+}
+
+.chameleon:hover img {
+    opacity: 0.5;
+}
+
+.chameleon:hover {
+    transform: scale(1.15);
+}
+
+.chameleon-text{
+    display: flex;
+    justify-content: space-between;
+    color:greenyellow
+}
+
+.cicada{
+    max-width: 300px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.cicada:hover p {
+    opacity: 1;
+}
+
+.cicada:hover img {
+    opacity: 0.5;
+}
+
+.cicada:hover {
+    transform: scale(1.15);
+}
+
+.cicada-text{
+    display: flex;
+    justify-content: space-between;
+    color:yellow
+}
+
+.pigeon{
+    max-width: 300px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.pigeon:hover p {
+    opacity: 1;
+}
+
+.pigeon:hover img {
+    opacity: 0.5;
+}
+
+.pigeon:hover {
+    transform: scale(1.15);
+}
+
+.pigeon-text{
+    display: flex;
+    justify-content: space-between;
+    color:black
+}
+
+.teddy{
+    max-width: 300px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.teddy:hover p {
+    opacity: 1;
+}
+
+.teddy:hover img {
+    opacity: 0.5;
+}
+
+.teddy:hover {
+    transform: scale(1.15);
+}
+
+.teddy-text{
+    display: flex;
+    justify-content: space-between;
+    color:brown
+}
+
+.camel{
+    max-width: 300px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.camel:hover p {
+    opacity: 1;
+}
+
+.camel:hover img {
+    opacity: 0.5;
+}
+
+.camel:hover {
+    transform: scale(1.15);
+}
+
+.camel-text{
+    display: flex;
+    justify-content: space-between;
+    color:gold
+}
+
+    h1{
+        text-align: center;
+        margin-left: 30px;
+        color : hotpink;
+        padding: 25px;
+}
+
+body{
+    background: hotpink;
+    color: whitesmoke;
+}
+
+a:link{
+    color: turquoise;
+}
+
+a:visited{
+    color: turquoise;
+}
+
+
+li {
+    color: grey;
+}
+
+b {
+    
+    color: grey
+}
+
+i {
+    
+    color:grey
+}
